@@ -1,7 +1,7 @@
 {
-  "version": "2.1",
-  "updateDate": "2026-03-13",
-  "sha256": "c5e0c5b418a550d6b2d92270d00733ebed1acb5aa1603b0ad4a851e70dc0956a",
-  "downloadUrl": "https://github.com/znpwlk/Minecraft-Server-Hub-2/releases/download/2.1/msh-2.1.jar",
+  "version": "2.2",
+  "updateDate": "2026-03-15",
+  "sha256": "f1cedaaf84ce16e441b0c7ef673f0abf50fab786d7a8acaf9757aeec12683f62",
+  "downloadUrl": "https://github.com/znpwlk/Minecraft-Server-Hub-2/releases/download/v2.2/msh-2.2.jar",
   "forceUpdateVersion": "2.1"
 }
